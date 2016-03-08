@@ -1,5 +1,4 @@
 # discovery-log
-Just crazy things :shit:
 
 :date: [março de 2016](https://github.com/fbeegle/discovery-log/blob/master/2016/03-marco.md) / *em breve vem outros meses, eu acho...*
 
