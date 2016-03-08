@@ -7,3 +7,8 @@
 - :beers: - [dive into html 5](https://diveintohtml5.com.br/index.html)
 - :pizza: - [behance portfolio reviews vale do paraíba](https://www.facebook.com/events/915190358549019/)
 - :octocat: - [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+### dia 08
+- :beers: - [turbolinks](https://github.com/turbolinks/turbolinks)
+- :coffee: - [entendendo programação funcional em javascript de uma vez](https://medium.com/@matheusml/entendendo-programa%C3%A7%C3%A3o-funcional-em-javascript-de-uma-vez-c676489be08b#.v6koeyok0)
+- :beers: - [build a real-time status update app with angularjs & firebase](http://www.sitepoint.com/real-time-status-update-app-angularjs-firebase/)
