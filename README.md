@@ -11,5 +11,6 @@ Está separado de acordo com a data da descoberta e será sinalizado da seguinte
 - :pizza: - design
 - :cloud: - arquitetura
 - :bulb: - ideias
+- :octocat: - git/github
 
 > *"Busquem conhecimento"* – Bilu, E.T. :alien:

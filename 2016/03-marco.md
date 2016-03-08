@@ -6,3 +6,4 @@
 - :coffee: - [high voltage - rails engine for static pages](https://github.com/thoughtbot/high_voltage)
 - :beers: - [dive into html 5](https://diveintohtml5.com.br/index.html)
 - :pizza: - [behance portfolio reviews vale do paraíba](https://www.facebook.com/events/915190358549019/)
+- :octocat: - [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
