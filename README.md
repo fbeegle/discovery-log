@@ -9,7 +9,7 @@ Está separado de acordo com a data da descoberta e será sinalizado da seguinte
 - :coffee: - back-end
 - :beers: - front-end
 - :pizza: - design
-- :cloud: - arquitetura
+- :computer: - arquitetura e ferramentas
 - :bulb: - ideias
 - :octocat: - git/github
 
