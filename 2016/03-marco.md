@@ -23,3 +23,5 @@
 
 ### dia 09
 - :beers: - [tasty css-animated hamburgers](https://jonsuh.com/hamburgers/)
+- :computer: - [term-img-cli - display images in your terminal](https://github.com/sindresorhus/term-img-cli)
+- :beers: - [css animation for beginners - thoughtbot article](https://robots.thoughtbot.com/css-animation-for-beginners)
