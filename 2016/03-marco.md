@@ -29,3 +29,12 @@
 ## dia 10
 - :computer: - [jekyll-compose - streamline your writing](https://github.com/jekyll/jekyll-compose)
 - :beers: - [react.js program](http://www.reactjsprogram.com)
+- :beers: - [baloon.css](https://github.com/kazzkiq/balloon.css)
+- :computer: - [terminal-menu - retro ansi terminal menu](https://github.com/substack/terminal-menu)
+- :beers: - [](https://github.com/ampproject/amphtml)
+
+## dia 11
+- :coffee: - [rack-attack - rack middleware for blocking & throttling abusive requests](https://github.com/kickstarter/rack-attack)
+- :computer: - [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
+- :beers: - [codepen do deadpool feito em css](http://codepen.io/daniel-snows/pen/jqrwjo)
+- :beers: - [rich text editor framework for react](https://facebook.github.io/draft-js/)
