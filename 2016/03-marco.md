@@ -6,7 +6,7 @@
 - :coffee: - [high voltage - rails engine for static pages](https://github.com/thoughtbot/high_voltage)
 - :beers: - [dive into html 5](https://diveintohtml5.com.br/index.html)
 - :pizza: - [behance portfolio reviews vale do paraíba](https://www.facebook.com/events/915190358549019/)
-- :octocat: - [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- :zap: - [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ### dia 08
 - :computer: - [docker-awesome-ptbr](https://github.com/renatosousafilho/docker-awesome-ptbr)
@@ -31,10 +31,20 @@
 - :beers: - [react.js program](http://www.reactjsprogram.com)
 - :beers: - [baloon.css](https://github.com/kazzkiq/balloon.css)
 - :computer: - [terminal-menu - retro ansi terminal menu](https://github.com/substack/terminal-menu)
-- :beers: - [](https://github.com/ampproject/amphtml)
+- :beers: - [amp project](https://github.com/ampproject/amphtml)
 
 ## dia 11
 - :coffee: - [rack-attack - rack middleware for blocking & throttling abusive requests](https://github.com/kickstarter/rack-attack)
 - :computer: - [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 - :beers: - [codepen do deadpool feito em css](http://codepen.io/daniel-snows/pen/jqrwjo)
 - :beers: - [rich text editor framework for react](https://facebook.github.io/draft-js/)
+
+## dia 12
+:wine_glass: :tropical_drink: :beer: :cocktail: :meat_on_bone: :poultry_leg:
+
+## dia 13
+- :beers: - [thinkster - rails, node, angular, react courses...](https://thinkster.io)
+- :computer: - [giflab - chrome extension for include gifs on github](https://github.com/DrewML/GifHub)
+- :computer: - [webtorrent - streaming torrent client](https://github.com/feross/webtorrent-app)
+- :zap: - [slack-list-brazil - curadoria de slacks no brasil](https://github.com/joselitojunior1/slack-list-brazil)
+- :coffee: - [ava - futuristic test runner for js](https://github.com/sindresorhus/ava)
