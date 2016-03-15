@@ -51,3 +51,4 @@
 
 ## dia 14
 - :computer: - [reep.io - peer-to-peer in your browser](https://reep.io/)
+- :beers: - [credicard.js - credit card validation library](http://contaazul.github.io/creditcard.js/)
