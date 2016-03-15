@@ -55,3 +55,9 @@
 - :beers: - [frontendbr vagas](https://github.com/frontendbr/vagas)
 - :zap: - [adesivos - uma coleção de adesivos para desenvolvedores](https://github.com/cerebrobr/adesivos)
 - :beers: - [edge browser platform status](https://dev.windows.com/en-us/microsoft-edge/platform/status/)
+
+## dia 15
+- :beers: - [famous - js library for animations & interfaces](http://famous.org/)
+- :beers: - [amplify - jekyll theme](https://github.com/ageitgey/amplify)
+- :coffee: - [rubocop - a ruby static code analyzer](https://github.com/bbatsov/rubocop)
+- :computer: - [statuspage - statuspage generator that works with github](https://github.com/pyupio/statuspage)
