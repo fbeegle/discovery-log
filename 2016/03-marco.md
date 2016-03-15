@@ -52,3 +52,6 @@
 ## dia 14
 - :computer: - [reep.io - peer-to-peer in your browser](https://reep.io/)
 - :beers: - [credicard.js - credit card validation library](http://contaazul.github.io/creditcard.js/)
+- :beers: - [frontendbr vagas](https://github.com/frontendbr/vagas)
+- :zap: - [adesivos - uma coleção de adesivos para desenvolvedores](https://github.com/cerebrobr/adesivos)
+- :beers: - [edge browser platform status](https://dev.windows.com/en-us/microsoft-edge/platform/status/)
