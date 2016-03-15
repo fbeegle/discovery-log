@@ -61,3 +61,6 @@
 - :beers: - [amplify - jekyll theme](https://github.com/ageitgey/amplify)
 - :coffee: - [rubocop - a ruby static code analyzer](https://github.com/bbatsov/rubocop)
 - :computer: - [statuspage - statuspage generator that works with github](https://github.com/pyupio/statuspage)
+- :beers: - [coverr - background videos](http://coverr.co)
+- :beers: - [particles.js - particles lines background](http://vincentgarreau.com/particles.js/)
+- :beers: - [instant articles – the future of mobile](https://instantarticles.fb.com)
