@@ -69,3 +69,10 @@
 - :beers: - [umbrella.js - tiny and intuitive js library](http://abpa.esp.br/noticia/f1--sauber-pode-se-tornar-cliente-da-honda-em-2017)
 - :beers: - [list.js - search, sort, filters features to html](http://www.listjs.com/)
 - :beers: - [grd - a css grid fw using flexbox](https://1000ch.github.io/grd/)
+
+## dia 17
+:sleeping: :zzz: :sleeping: :zzz: :sleeping:
+
+## dia 18
+- :beers: - [angular-styleguide do john papa em pt-BR](https://github.com/johnpapa/angular-styleguide/blob/master/a1/i18n/pt-BR.md)
+- :zap: - [freecodecamp - courses focused in javascript](https://www.freecodecamp.com/)
