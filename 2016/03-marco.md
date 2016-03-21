@@ -76,3 +76,16 @@
 ## dia 18
 - :beers: - [angular-styleguide do john papa em pt-BR](https://github.com/johnpapa/angular-styleguide/blob/master/a1/i18n/pt-BR.md)
 - :zap: - [freecodecamp - courses focused in javascript](https://www.freecodecamp.com/)
+
+## dia 19
+:video_game: :video_game: :video_game: :video_game: :video_game:
+
+## dia 20
+:video_game: :video_game: :video_game: :video_game: :video_game:
+
+## dia 21
+- :computer: - [awesome_bot - automate links validation](https://github.com/dkhamsing/awesome_bot)
+- :zap: - [public-apis - collective list of json apis](https://github.com/toddmotto/public-apis)
+- :coffee: - [laravel-excel - import and export excel/csv files](https://github.com/Maatwebsite/Laravel-Excel)
+- :beers: - [react-autosuggest - react autosuggest component](https://github.com/moroshko/react-autosuggest)
+- :zap: - [electron - fw for cross-platform desktop app dev](https://github.com/atom/electron)
