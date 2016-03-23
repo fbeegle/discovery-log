@@ -91,3 +91,7 @@
 - :zap: - [electron - fw for cross-platform desktop app dev](https://github.com/atom/electron)
 - :coffee: - [apis on rails - rest apis with rails book](http://apionrails.icalialabs.com/book/chapter_one)
 - :coffee: - [floki - html parser](https://github.com/philss/floki)
+
+## dia 22
+- :zap: - [awesome-emails - resources to build responsive emails](https://github.com/jonathandion/awesome-emails)
+- :zap: - [responsive-html-email-template - html email template](https://github.com/leemunroe/responsive-html-email-template)
