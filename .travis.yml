@@ -1,0 +1,4 @@
+language: ruby
+rvm: 2.2
+before_script: gem install awesome_bot
+script: awesome_bot 2016/03-marco.md --white-list travis-ci

@@ -111,3 +111,13 @@
 ## dia 27
 - :beers: - [riot.js - react-like user interface micro-library](http://riotjs.com)
 - :beers: - [micro.js - micro javascript frameworks collection](http://microjs.com/)
+
+## dia 28
+- :pizza: - [colorhunt - collection of great colors](http://www.colorhunt.co)
+- :zap:	- [cleancode blog - the name is obviously](http://blog.cleancoder.com)
+- :beers: - [dragula - drag and drop so simple it hurts](https://github.com/bevacqua/dragula)
+
+## dia 29
+- :beers: - [iscpf.js - validate cpf numbers](https://github.com/fdaciuk/iscpf)
+- :zap: - [write code everyday project](http://writecodeeveryday.io)
+- :beers: - [vedcasts - screencasts br do vedovelli](http://www.vedcasts.com.br/series)
