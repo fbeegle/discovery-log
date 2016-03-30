@@ -45,7 +45,7 @@
 ## dia 13
 - :beers: - [thinkster - rails, node, angular, react courses...](https://thinkster.io)
 - :computer: - [giflab - chrome extension for include gifs on github](https://github.com/DrewML/GifHub)
-- :computer: - [webtorrent - streaming torrent client](https://github.com/feross/webtorrent-app)
+- :computer: - [webtorrent - streaming torrent client](https://github.com/feross/webtorrent-desktop)
 - :zap: - [slack-list-brazil - curadoria de slacks no brasil](https://github.com/joselitojunior1/slack-list-brazil)
 - :coffee: - [ava - futuristic test runner for js](https://github.com/sindresorhus/ava)
 
@@ -54,7 +54,7 @@
 - :beers: - [credicard.js - credit card validation library](http://contaazul.github.io/creditcard.js/)
 - :beers: - [frontendbr vagas](https://github.com/frontendbr/vagas)
 - :zap: - [adesivos - uma coleção de adesivos para desenvolvedores](https://github.com/cerebrobr/adesivos)
-- :beers: - [edge browser platform status](https://dev.windows.com/en-us/microsoft-edge/platform/status/)
+- :beers: - [edge browser platform status](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/)
 
 ## dia 15
 - :beers: - [famous - js library for animations & interfaces](http://famous.org/)
@@ -66,7 +66,7 @@
 - :beers: - [instant articles – the future of mobile](https://instantarticles.fb.com)
 
 ## dia 16
-- :beers: - [umbrella.js - tiny and intuitive js library](http://abpa.esp.br/noticia/f1--sauber-pode-se-tornar-cliente-da-honda-em-2017)
+- :beers: - [umbrella.js - tiny and intuitive js library](http://umbrellajs.com)
 - :beers: - [list.js - search, sort, filters features to html](http://www.listjs.com/)
 - :beers: - [grd - a css grid fw using flexbox](https://1000ch.github.io/grd/)
 
