@@ -132,3 +132,4 @@
 - :coffee: - [cancan - authorization library for ror](https://github.com/ryanb/cancan)
 - :beers:	- [learning javascript design patterns book](https://github.com/addyosmani/essential-js-design-patterns)
 - :beers: - [postcss plugin to use tomorrow's css syntax, today](http://cssnext.io)
+- :computer: - [fontwr - terminal font manager for web projects](https://github.com/raphaklaus/fontwr)
