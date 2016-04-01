@@ -125,3 +125,9 @@
 ## dia 30
 - :zap: - [stackshare - discover technologies used by the bigs](http://stackshare.io)
 - :beers: - [research: performance impact of popular javascript mvc frameworks](https://www.filamentgroup.com/lab/mv-initial-load-times.html)
+- :beers: - [searchkit - react ui components for elasticsearch](http://searchkit.co)
+
+## dia 31
+- :beers: - [fullPage.js - full screen scrolling](https://github.com/alvarotrigo/fullPage.js)
+- :coffee: - [cancan - authorization library for ror](https://github.com/ryanb/cancan)
+- :beers:	- [learning javascript design patterns book](https://github.com/addyosmani/essential-js-design-patterns)
