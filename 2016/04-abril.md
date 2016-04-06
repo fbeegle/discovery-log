@@ -14,3 +14,7 @@
 ### dia 04
 - :beers: - [datedropper - jquery plugin for datepicker](http://felicegattuso.com/projects/datedropper/)
 - :coffee: - [mailgun.js - a simple node.js helper module for mailgun api](https://github.com/1lobby/mailgun-js)
+
+### dia 05
+- :beers: - [mastering mean - courses about mean stack](https://masteringmean.com)
+- :beers: - [front-end masters - expert front-end training](https://frontendmasters.com)
