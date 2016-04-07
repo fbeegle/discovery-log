@@ -18,3 +18,8 @@
 ### dia 05
 - :beers: - [mastering mean - courses about mean stack](https://masteringmean.com)
 - :beers: - [front-end masters - expert front-end training](https://frontendmasters.com)
+
+### dia 06
+- :zap: - [registrations - woocommerce plugin for sell event registrations](https://wordpress.org/plugins/registrations-for-woocommerce/)
+- :pizza: - [flatcolors - collection of flat colors](http://flatcolors.net)
+- :beers: - [background-blur - background blur plugin](https://github.com/msurguy/background-blur)
