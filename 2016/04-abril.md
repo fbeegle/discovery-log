@@ -23,3 +23,15 @@
 - :zap: - [registrations - woocommerce plugin for sell event registrations](https://wordpress.org/plugins/registrations-for-woocommerce/)
 - :pizza: - [flatcolors - collection of flat colors](http://flatcolors.net)
 - :beers: - [background-blur - background blur plugin](https://github.com/msurguy/background-blur)
+
+### dia 07
+:computer: :computer: :computer: :computer: :computer:
+
+### dia 08
+:computer: :computer: :hamburger: :electric_plug: :zzz:
+
+### dia 09
+- :coffee: - [rails assets - assets management in rails](https://rails-assets.org)
+- :zap: - [how to pass a programming interview](http://blog.triplebyte.com/how-to-pass-a-programming-interview)
+- :zap: - [angular & rails application](https://github.com/mikamai/angular-rails-example)
+- :zap: - [the rails + angular equation can give you satisfaction](http://dev.mikamai.com/post/97732414859/the-rails-angular-equation-can-give-you)
