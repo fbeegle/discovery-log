@@ -35,3 +35,9 @@
 - :zap: - [how to pass a programming interview](http://blog.triplebyte.com/how-to-pass-a-programming-interview)
 - :zap: - [angular & rails application](https://github.com/mikamai/angular-rails-example)
 - :zap: - [the rails + angular equation can give you satisfaction](http://dev.mikamai.com/post/97732414859/the-rails-angular-equation-can-give-you)
+
+### dia 10
+- :beers: - [speedline - show performance metrics from chrome dev tool in cli](https://github.com/pmdartus/speedline)
+- :computer: - [givegif - gifs on the command line](https://github.com/passy/givegif)
+- :pizza: - [sketchsheets - scketchs to print](http://sketchsheets.com)
+- :pizza: - [an atomic workflow for design & development at nordnet](https://medium.com/nordnet-design-studio/an-atomic-workflow-for-design-development-at-nordnet-e91c815428b6#.aragu3prb)
