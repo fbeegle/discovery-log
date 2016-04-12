@@ -41,3 +41,9 @@
 - :computer: - [givegif - gifs on the command line](https://github.com/passy/givegif)
 - :pizza: - [sketchsheets - scketchs to print](http://sketchsheets.com)
 - :pizza: - [an atomic workflow for design & development at nordnet](https://medium.com/nordnet-design-studio/an-atomic-workflow-for-design-development-at-nordnet-e91c815428b6#.aragu3prb)
+
+### dia 11
+- :coffee: - [mailtrain - self hosted newsletter app](https://mailtrain.org)
+- :beers: - [front-end feed list br](https://github.com/LFeh/feed-list)
+- :zap: - [onesignal - push notification delivery](https://onesignal.com)
+- :computer: - [runnable - sandbox service for full-stack environments to github](https://runnable.io)
