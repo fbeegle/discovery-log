@@ -53,3 +53,6 @@
 - :beers: - [bem – css methodology to share components and code](http://getbem.com/)
 - :zap: - [slack-list-brazil - curadoria de slacks no brasil](https://github.com/joselitojunior1/slack-list-brazil)
 - :zap: - [internet sem limites - provedores de internet que não limitarão o tráfego de dados](https://github.com/jlcarvalho/InternetSemLimites)
+
+### dia 13
+- :zap: - [facebook instant articles quickstart guide](https://developers.facebook.com/docs/instant-articles/quickstart)
