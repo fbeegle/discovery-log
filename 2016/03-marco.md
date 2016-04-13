@@ -88,7 +88,7 @@
 - :zap: - [public-apis - collective list of json apis](https://github.com/toddmotto/public-apis)
 - :coffee: - [laravel-excel - import and export excel/csv files](https://github.com/Maatwebsite/Laravel-Excel)
 - :beers: - [react-autosuggest - react autosuggest component](https://github.com/moroshko/react-autosuggest)
-- :zap: - [electron - fw for cross-platform desktop app dev](https://github.com/atom/electron)
+- :zap: - [electron - fw for cross-platform desktop app dev](https://github.com/electron/electron)
 - :coffee: - [apis on rails - rest apis with rails book](http://apionrails.icalialabs.com/book/chapter_one)
 - :coffee: - [floki - html parser](https://github.com/philss/floki)
 
