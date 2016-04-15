@@ -56,3 +56,7 @@
 
 ### dia 13
 - :zap: - [facebook instant articles quickstart guide](https://developers.facebook.com/docs/instant-articles/quickstart)
+
+### dia 14
+- :computer: - [keystone.js - cms based on node.js, express and mongodb](http://keystonejs.com)
+- :coffee: - [tolk - web interface for doing i18n translations for rails app](https://github.com/tolk/tolk)
