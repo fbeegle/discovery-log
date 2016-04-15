@@ -61,3 +61,4 @@
 - :computer: - [keystone.js - cms based on node.js, express and mongodb](http://keystonejs.com)
 - :coffee: - [tolk - web interface for doing i18n translations for rails app](https://github.com/tolk/tolk)
 - :beers: - [awesome ember](https://github.com/nmec/awesome-ember)
+- :beers: - [emberwatch - tutorials, screencasts, podcasts... all about ember](http://emberwatch.com)
