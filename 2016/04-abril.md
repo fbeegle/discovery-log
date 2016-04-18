@@ -62,3 +62,17 @@
 - :coffee: - [tolk - web interface for doing i18n translations for rails app](https://github.com/tolk/tolk)
 - :beers: - [awesome ember](https://github.com/nmec/awesome-ember)
 - :beers: - [emberwatch - tutorials, screencasts, podcasts... all about ember](http://emberwatch.com)
+
+### dia 15
+:zzz: :zzz: :zzz: :zzz: :zzz:
+
+### dia 16
+:video_game: :video_game: :video_game: :video_game: :video_game:
+
+### dia 17
+:cocktail: :video_game: :tropical_drink: :video_game: :wine_glass:
+
+### dia 18
+- :coffee: - [laravel 5 extended generators](https://github.com/laracasts/Laravel-5-Generators-Extended)
+- :coffee: - [easy flash notifications - shortcut for flash messages in laravel](https://github.com/laracasts/flash)
+- :beers: - [cssx - css in javascript](https://github.com/krasimir/cssx)
