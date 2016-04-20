@@ -81,3 +81,4 @@
 - :coffee: - [colyseus - minimalist multiplayer game server for node.js](https://github.com/gamestdio/colyseus)
 - :coffee: - [hexo - blog framework, powered by node.js](https://github.com/hexojs/hexo)
 - :beers: - [scrollbear - tool that maintains scroll position when images loaded](https://github.com/changbenny/scrollbear)
+- :computer: - [merge-windows - merge chrome windows into the active one](https://github.com/sindresorhus/merge-windows)
