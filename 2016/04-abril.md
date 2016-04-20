@@ -76,3 +76,8 @@
 - :coffee: - [laravel 5 extended generators](https://github.com/laracasts/Laravel-5-Generators-Extended)
 - :coffee: - [easy flash notifications - shortcut for flash messages in laravel](https://github.com/laracasts/flash)
 - :beers: - [cssx - css in javascript](https://github.com/krasimir/cssx)
+
+### dia 19
+- :coffee: - [colyseus - minimalist multiplayer game server for node.js](https://github.com/gamestdio/colyseus)
+- :coffee: - [hexo - blog framework, powered by node.js](https://github.com/hexojs/hexo)
+- :beers: - [scrollbear - tool that maintains scroll position when images loaded](https://github.com/changbenny/scrollbear)
