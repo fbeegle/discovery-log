@@ -82,3 +82,11 @@
 - :coffee: - [hexo - blog framework, powered by node.js](https://github.com/hexojs/hexo)
 - :beers: - [scrollbear - tool that maintains scroll position when images loaded](https://github.com/changbenny/scrollbear)
 - :computer: - [merge-windows - merge chrome windows into the active one](https://github.com/sindresorhus/merge-windows)
+
+### dia 20
+- :coffee: - [php framework benchmark](https://github.com/kenjis/php-framework-benchmark)
+- :beers: - [awesome-seo - a curated list of seo links](https://github.com/teles/awesome-seo)
+- :beers: - [mdcss - create and maintain style guides with css](https://github.com/jonathantneal/mdcss)
+- :zap: - [lgtm - simple pull request approval system](https://lgtm.co)
+- :zap: - [drone.io - continuous delivery platform built on docker](https://drone.io)
+- :beers: - [stylelint - a mighty, modern css linter](https://github.com/stylelint/stylelint)
