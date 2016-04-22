@@ -90,3 +90,8 @@
 - :zap: - [lgtm - simple pull request approval system](https://lgtm.co)
 - :zap: - [drone.io - continuous delivery platform built on docker](https://drone.io)
 - :beers: - [stylelint - a mighty, modern css linter](https://github.com/stylelint/stylelint)
+
+### dia 21
+- :coffee: - [phpenv - simple php version management](https://github.com/phpenv/phpenv)
+- :beers: - [project zeppelin - bolerplate for conference website in jekyll](https://github.com/gdg-x/zeppelin)
+- :beers: - [curso de svg do willian justen](https://github.com/willianjusten/curso-de-svg)
