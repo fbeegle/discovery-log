@@ -95,3 +95,7 @@
 - :coffee: - [phpenv - simple php version management](https://github.com/phpenv/phpenv)
 - :beers: - [project zeppelin - bolerplate for conference website in jekyll](https://github.com/gdg-x/zeppelin)
 - :beers: - [curso de svg do willian justen](https://github.com/willianjusten/curso-de-svg)
+
+### dia 22
+- :coffee: - [strman - a js string manipulation library](https://github.com/dleitee/strman)
+- :computer: - [osx-wallpaper - get or set the desktop wallpaper on os x](https://github.com/sindresorhus/osx-wallpaper)
