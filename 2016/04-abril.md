@@ -99,3 +99,8 @@
 ### dia 22
 - :coffee: - [strman - a js string manipulation library](https://github.com/dleitee/strman)
 - :computer: - [osx-wallpaper - get or set the desktop wallpaper on os x](https://github.com/sindresorhus/osx-wallpaper)
+
+### dia 23
+- :coffee: - [dicas de performance para aplicações ror - fabio akita](https://www.infoq.com/br/presentations/dicas-de-performance-para-aplicacoes-ruby-on-rails)
+- :coffee: - [decorators on rails article](http://johnotander.com/rails/2014/03/07/decorators-on-rails/)
+- :coffee: - [a simple wrapper for objects (decorator/presenter)](https://github.com/fnando/burgundy)
