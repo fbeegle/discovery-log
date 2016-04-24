@@ -107,3 +107,5 @@
 
 ### dia 24
 - :pizza: - [atomic.io - the fastest way to design beautiful interactions](https://atomic.io)
+- :coffee: - [rubycritic - a ruby code quality reporter](https://github.com/whitesmith/rubycritic)
+- :beers: - [react-patterns - mostly reasonable patterns for writing react on rails](https://github.com/planningcenter/react-patterns)
