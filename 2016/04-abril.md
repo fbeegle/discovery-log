@@ -110,3 +110,7 @@
 - :coffee: - [rubycritic - a ruby code quality reporter](https://github.com/whitesmith/rubycritic)
 - :beers: - [react-patterns - mostly reasonable patterns for writing react on rails](https://github.com/planningcenter/react-patterns)
 - :beers: - [front-end-career - um guia de carreira para o front-ender](https://github.com/woliveiras/front-end-career)
+
+### dia 25
+- :computer: - [dicas de vim para noobs - minibook](http://woliveiras.com.br/vimparanoobs/)
+- :beers: - [styleguide - tool to make creating and maintaining styleguides easy](http://hugeinc.github.io/styleguide/)
