@@ -121,3 +121,6 @@
 - :coffee: - [helpy - a modern, "mobile-first" helpdesk application built in ruby](https://github.com/helpyio/helpy)
 - :coffee: - [huginn - build agents that monitor and act on your behalf](https://github.com/cantino/huginn)
 - :coffee: - [reek - code smell detector for ruby](https://github.com/troessner/reek)
+- :coffee: - [thredded - best rails forums engine ever](https://github.com/thredded/thredded)
+- :computer: - [linuxbrew - the homebrew package manager for linux](https://github.com/Linuxbrew/linuxbrew)
+- :coffee: - [http.rb - a fast ruby http client with a chainable api](https://github.com/httprb/http)
