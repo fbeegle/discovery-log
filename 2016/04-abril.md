@@ -118,4 +118,6 @@
 ### dia 26
 - :beers: - [modaal - an accessible dialog window library for all human](http://humaan.com/modaal/)
 - :coffee: - [whenever - easy cronjobs in ruby](https://github.com/javan/whenever)
-- :coffee: - [helpy is a modern, "mobile-first" helpdesk application built in ruby](https://github.com/helpyio/helpy)
+- :coffee: - [helpy - a modern, "mobile-first" helpdesk application built in ruby](https://github.com/helpyio/helpy)
+- :coffee: - [huginn - build agents that monitor and act on your behalf](https://github.com/cantino/huginn)
+- :coffee: - [reek - code smell detector for ruby](https://github.com/troessner/reek)
