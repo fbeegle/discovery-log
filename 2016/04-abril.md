@@ -118,3 +118,4 @@
 ### dia 26
 - :beers: - [modaal - an accessible dialog window library for all human](http://humaan.com/modaal/)
 - :coffee: - [whenever - easy cronjobs in ruby](https://github.com/javan/whenever)
+- :coffee: - [helpy is a modern, "mobile-first" helpdesk application built in ruby](https://github.com/helpyio/helpy)
