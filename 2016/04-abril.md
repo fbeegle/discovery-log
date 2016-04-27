@@ -114,3 +114,7 @@
 ### dia 25
 - :computer: - [dicas de vim para noobs - minibook](http://woliveiras.com.br/vimparanoobs/)
 - :beers: - [styleguide - tool to make creating and maintaining styleguides easy](http://hugeinc.github.io/styleguide/)
+
+### dia 26
+- :beers: - [modaal - an accessible dialog window library for all human](http://humaan.com/modaal/)
+- :coffee: - [whenever - easy cronjobs in ruby](https://github.com/javan/whenever)
