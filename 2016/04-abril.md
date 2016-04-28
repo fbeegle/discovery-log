@@ -124,3 +124,6 @@
 - :coffee: - [thredded - best rails forums engine ever](https://github.com/thredded/thredded)
 - :computer: - [linuxbrew - the homebrew package manager for linux](https://github.com/Linuxbrew/linuxbrew)
 - :coffee: - [http.rb - a fast ruby http client with a chainable api](https://github.com/httprb/http)
+
+### dia 27
+- :computer: - [xieditor - a modern editor with a backend written in rust](https://github.com/google/xi-editor)
