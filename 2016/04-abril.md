@@ -127,3 +127,4 @@
 
 ### dia 27
 - :computer: - [xieditor - a modern editor with a backend written in rust](https://github.com/google/xi-editor)
+- :computer: - [speed-test - internet connection speed and ping from the cli](https://github.com/sindresorhus/speed-test)
