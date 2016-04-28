@@ -129,3 +129,4 @@
 - :computer: - [xieditor - a modern editor with a backend written in rust](https://github.com/google/xi-editor)
 - :computer: - [speed-test - internet connection speed and ping from the cli](https://github.com/sindresorhus/speed-test)
 - :zap: - [speakerfight - system that help people choose speakers](https://github.com/luanfonceca/speakerfight)
+- :beers: - [bulma.io - modern css framework based on flexbox](https://github.com/jgthms/bulma)
