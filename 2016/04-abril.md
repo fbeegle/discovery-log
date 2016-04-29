@@ -135,3 +135,4 @@
 ### dia 28
 - :coffee: - [natika - simple php Forum system for developers](https://github.com/asika32764/natika)
 - :coffee: - [dashing-rails - handsome dashboard framework for rails](https://github.com/gottfrois/dashing-rails)
+- :coffee: - [awesome-ruby - awesome list abou everything for rb](https://github.com/markets/awesome-ruby)
