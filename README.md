@@ -1,10 +1,10 @@
-![discovery-log cover](https://raw.githubusercontent.com/fbeegle/discovery-log/master/assets/top-image.jpg)
+![discovery-log cover](https://raw.githubusercontent.com/felipeorlando/discovery-log/master/assets/top-image.jpg)
 
 # discovery-log
 
-:date: [abril de 2016](https://github.com/fbeegle/discovery-log/blob/master/2016/04-abril.md) / [março de 2016](https://github.com/fbeegle/discovery-log/blob/master/2016/03-marco.md) *em breve vem outros meses, eu acho...*
+:date: [abril de 2016](https://github.com/felipeorlando/discovery-log/blob/master/2016/04-abril.md) / [março de 2016](https://github.com/felipeorlando/discovery-log/blob/master/2016/03-marco.md) *em breve vem outros meses, eu acho...*
 
-[![Build Status](https://travis-ci.org/fbeegle/discovery-log.svg?branch=master)](https://travis-ci.org/fbeegle/discovery-log)
+[![Build Status](https://travis-ci.org/felipeorlando/discovery-log.svg?branch=master)](https://travis-ci.org/felipeorlando/discovery-log)
 
 Este é um discovery-log para não perder mais de vista aquelas libraries inovadoras, aquelas postagens badass e demais tecnologias fodonas! :heart:
 
