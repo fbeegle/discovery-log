@@ -133,4 +133,5 @@
 - :beers: - [moment - parse, validate, manipulate, and display dates in js](https://github.com/moment/moment)
 
 ### dia 28
-- :coffee: - [natika - simple PHP Forum system for developers](https://github.com/asika32764/natika)
+- :coffee: - [natika - simple php Forum system for developers](https://github.com/asika32764/natika)
+- :coffee: - [dashing-rails - handsome dashboard framework for rails](https://github.com/gottfrois/dashing-rails)
