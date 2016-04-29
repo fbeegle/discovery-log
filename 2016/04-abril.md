@@ -135,5 +135,6 @@
 ### dia 28
 - :coffee: - [natika - simple php Forum system for developers](https://github.com/asika32764/natika)
 - :coffee: - [dashing-rails - handsome dashboard framework for rails](https://github.com/gottfrois/dashing-rails)
-- :coffee: - [awesome-ruby - awesome list abou everything for rb](https://github.com/markets/awesome-ruby)
+- :coffee: - [awesome-ruby - awesome list about everything for rb](https://github.com/markets/awesome-ruby)
 - :coffee: - [time-clock - a simple system that allows manage work hours](https://github.com/lucascaton/time_clock)
+- :coffee: - [awesome-elixir - awesome list about everything for elixir](https://github.com/h4cc/awesome-elixir)
