@@ -141,3 +141,7 @@
 
 ### dia 29
 - :computer: - [nyaovim - web-enhanced extensible neovim front-end](https://github.com/rhysd/NyaoVim)
+
+### dia 30
+- :computer: - [koel - personal music streaming server that works](https://github.com/phanan/koel)
+- :beers: - [react-hn - react-powered hacker news client](https://github.com/insin/react-hn)
