@@ -9,3 +9,4 @@
 - :computer: - [githunt - replace chrome new tab with trending gh repositories](https://github.com/kamranahmedse/githunt)
 - :coffee: - [thor - a toolkit for building powerful cli's](https://github.com/erikhuda/thor)
 - :computer: - [pirateflix - stream piratebay movies directly from cli](https://github.com/orinocoz/pirateflix)
+- :beers: - [bundler - track the load progress of bundler-based projects](https://github.com/nevir/Bumbler)
