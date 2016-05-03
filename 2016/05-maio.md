@@ -10,3 +10,4 @@
 - :coffee: - [thor - a toolkit for building powerful cli's](https://github.com/erikhuda/thor)
 - :computer: - [pirateflix - stream piratebay movies directly from cli](https://github.com/orinocoz/pirateflix)
 - :beers: - [bundler - track the load progress of bundler-based projects](https://github.com/nevir/Bumbler)
+- :computer: - [zeal - offline documentation browser inspired for linux & windows](https://github.com/zealdocs/zeal/)
