@@ -14,4 +14,5 @@
 
 ### dia 03
 - :zap: - [git-commands - list of useful git commands](https://github.com/bpassos/git-commands)
-- :zap: - [jekyll tips - tutorials and screencasts about jekyll](http://jekyll.tips)
+- :beers: - [jekyll tips - tutorials and screencasts about jekyll](http://jekyll.tips)
+- :beers: - [aprenda layout com css](http://pt-br.learnlayout.com)
