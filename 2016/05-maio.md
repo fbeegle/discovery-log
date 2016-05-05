@@ -16,3 +16,7 @@
 - :zap: - [git-commands - list of useful git commands](https://github.com/bpassos/git-commands)
 - :beers: - [jekyll tips - tutorials and screencasts about jekyll](http://jekyll.tips)
 - :beers: - [aprenda layout com css](http://pt-br.learnlayout.com)
+
+### dia 04
+- :computer: - [mditor - a mobile webapp markdown editor](https://github.com/danielfilho/mditor)
+- :computer: [imdbtr - imdb on terminal](https://github.com/fernahh/imdbtr)
