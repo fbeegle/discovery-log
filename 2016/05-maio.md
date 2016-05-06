@@ -20,3 +20,6 @@
 ### dia 04
 - :computer: - [mditor - a mobile webapp markdown editor](https://github.com/danielfilho/mditor)
 - :computer: [imdbtr - imdb on terminal](https://github.com/fernahh/imdbtr)
+
+### dia 05
+- :coffee: - [my_admin - rails admin generator](https://github.com/marcosvgs/my_admin)
