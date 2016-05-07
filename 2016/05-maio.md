@@ -31,3 +31,4 @@
 
 ### dia 07
 - :computer: - [alfred-workflows - alfred workflows for developers](https://github.com/willfarrell/alfred-workflows)
+- :computer: - [localhost-looking-good - pretty localhost manager](https://github.com/andergtk/localhost-looking-good)
