@@ -23,3 +23,6 @@
 
 ### dia 05
 - :coffee: - [my_admin - rails admin generator](https://github.com/marcosvgs/my_admin)
+
+### dia 06
+- :coffee: - [node.js production checklist](https://blog.risingstack.com/node-js-production-checklist/)
