@@ -26,3 +26,5 @@
 
 ### dia 06
 - :coffee: - [node.js production checklist](https://blog.risingstack.com/node-js-production-checklist/)
+- :beers: - [code-guide - standards for flexible, durable, and sustainable html and css](https://github.com/mdo/code-guide)
+- :computer: - [piemessage - imessage from igadget to android](https://github.com/bboyairwreck/PieMessage)
