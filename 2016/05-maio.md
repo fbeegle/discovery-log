@@ -36,3 +36,4 @@
 ### dia 08
 - :coffee: - [padrões de projeto - exemplos de utilização dos padrões de projeto](https://github.com/MarcosX/Padr-es-de-Projeto)
 - :computer: - [caddy - fast, cross-platform http/2 web server with automatic https](https://github.com/mholt/caddy)
+- :coffee: - [hamlit - high performance haml implementation](https://github.com/k0kubun/hamlit)
