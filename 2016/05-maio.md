@@ -44,3 +44,4 @@
 
 ### dia 10
 - :zap: - [you don't know js - js book series in pt-br](https://github.com/cezaraugusto/You-Dont-Know-JS)
+- :beers: - [html5-best-practices - writing scalable & consistent html5](https://github.com/cezaraugusto/html5-best-practices)
