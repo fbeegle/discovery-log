@@ -41,3 +41,6 @@
 ### dia 09
 - :computer: - [script-dev - install web development enviroment in linux](https://github.com/willianjusten/script-dev)
 - :zap: - [md2key - convert markdown to keynote](https://github.com/k0kubun/md2key)
+
+### dia 10
+- :zap: - [you don't know js - js book series in pt-br](https://github.com/cezaraugusto/You-Dont-Know-JS)
