@@ -46,3 +46,4 @@
 - :zap: - [you don't know js - js book series in pt-br](https://github.com/cezaraugusto/You-Dont-Know-JS)
 - :beers: - [html5-best-practices - writing scalable & consistent html5](https://github.com/cezaraugusto/html5-best-practices)
 - :zap: - [tools-for-students - a list of awesome tools for students](https://github.com/danilovaz/tools-for-students)
+- :computer: [gitsome - a supercharged git/shell autocompleter with github integration](https://github.com/donnemartin/gitsome)
