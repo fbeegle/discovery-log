@@ -47,3 +47,7 @@
 - :beers: - [html5-best-practices - writing scalable & consistent html5](https://github.com/cezaraugusto/html5-best-practices)
 - :zap: - [tools-for-students - a list of awesome tools for students](https://github.com/danilovaz/tools-for-students)
 - :computer: [gitsome - a supercharged git/shell autocompleter with github integration](https://github.com/donnemartin/gitsome)
+
+### dia 11
+- :beers: - [distorted button effects](http://tympanus.net/Development/DistortedButtonEffects/)
+- :beers: - [maintainablecss - write modular, scalable and maintainable css](http://maintainablecss.com)
