@@ -55,3 +55,7 @@
 ### dia 12
 - :computer: - [sitespeed.io - analyze and optimize your website speed and performance](https://github.com/sitespeedio/sitespeed.io)
 - :zap: - [remote-jobs - a list of semi to fully remote-friendly companies in tech](https://github.com/jessicard/remote-jobs)
+
+### dia 13
+- :zap: - [agenda-dev - uma pancada de encontros legais que estão rolando](https://github.com/theandersonn/agenda-dev)
+- :computer: - [upnext - chrome extension for streaming music from soundcloud & youtube](https://github.com/ptgamr/upnext)
