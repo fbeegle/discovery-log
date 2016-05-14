@@ -54,3 +54,4 @@
 
 ### dia 12
 - :computer: - [sitespeed.io - analyze and optimize your website speed and performance](https://github.com/sitespeedio/sitespeed.io)
+- :zap: - [remote-jobs - a list of semi to fully remote-friendly companies in tech](https://github.com/jessicard/remote-jobs)
