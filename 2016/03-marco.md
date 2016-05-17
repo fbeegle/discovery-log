@@ -12,7 +12,7 @@
 - :computer: - [docker-awesome-ptbr](https://github.com/renatosousafilho/docker-awesome-ptbr)
 - :beers: - [turbolinks](https://github.com/turbolinks/turbolinks)
 - :coffee: - [entendendo programação funcional em javascript de uma vez](https://medium.com/@matheusml/entendendo-programa%C3%A7%C3%A3o-funcional-em-javascript-de-uma-vez-c676489be08b#.v6koeyok0)
-- :beers: - [build a real-time status update app with angularjs & firebase](http://www.sitepoint.com/real-time-status-update-app-angularjs-firebase/)
+- :beers: - [build a real-time status update app with angularjs & firebase](https://www.sitepoint.com/real-time-status-update-app-angularjs-firebase/)
 - :coffee: - [rss feed emitter - made with node.js](https://github.com/filipedeschamps/rss-feed-emitter)
 - :beers: - [animo.js](http://labs.bigroomstudios.com/libraries/animo-js)
 - :coffee: - [cinépolis api](https://github.com/afilhodaniel/cinepolis_api)

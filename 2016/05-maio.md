@@ -59,3 +59,17 @@
 ### dia 13
 - :zap: - [agenda-dev - uma pancada de encontros legais que estão rolando](https://github.com/theandersonn/agenda-dev)
 - :computer: - [upnext - chrome extension for streaming music from soundcloud & youtube](https://github.com/ptgamr/upnext)
+
+### dia 14
+- :beers: - [gifffer - jslib that prevents the autoplaying of the animated gifs](http://krasimir.github.io/gifffer/)
+- :beers: - [guia de bolso de svg](https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide-ptbr.md)
+
+### dia 15
+- :pizza: - [sketch data populator - a sketch plugin populate docs with meaningful data](https://github.com/preciousforever/sketch-data-populator)
+
+### dia 16
+- :beers: - [npm-gui - graphic user interface for npm tasks for frontend](https://github.com/q-nick/npm-gui)
+- :coffee: - [devise_invitable - an invitation strategy for devise](https://github.com/scambra/devise_invitable)
+
+### dia 17
+- :beers: - [bootstrap-switch - turn checkboxes and radio buttons in toggle switches](https://github.com/nostalgiaz/bootstrap-switch)
