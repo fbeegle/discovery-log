@@ -78,3 +78,4 @@
 
 ### dia 18
 - :coffee: - [ransack - object-based searching](https://github.com/activerecord-hackery/ransack)
+- :coffee: - [check_files - check non-reloadable files changes on rails apps](https://github.com/fnando/check_files)
