@@ -73,3 +73,5 @@
 
 ### dia 17
 - :beers: - [bootstrap-switch - turn checkboxes and radio buttons in toggle switches](https://github.com/nostalgiaz/bootstrap-switch)
+- :beers: - [autoprefixer - parse css and add vendor prefixes to rules by can i use](https://github.com/postcss/autoprefixer)
+- :beers: - [browser-calories-chrome - extension that measures your performance budge](https://github.com/zenorocha/browser-calories-chrome)
