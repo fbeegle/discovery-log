@@ -47,7 +47,7 @@
 - :computer: - [giflab - chrome extension for include gifs on github](https://github.com/DrewML/GifHub)
 - :computer: - [webtorrent - streaming torrent client](https://github.com/feross/webtorrent-desktop)
 - :zap: - [slack-list-brazil - curadoria de slacks no brasil](https://github.com/joselitojunior1/slack-list-brazil)
-- :coffee: - [ava - futuristic test runner for js](https://github.com/sindresorhus/ava)
+- :coffee: - [ava - futuristic test runner for js](https://github.com/avajs/ava)
 
 ## dia 14
 - :computer: - [reep.io - peer-to-peer in your browser](https://reep.io/)
