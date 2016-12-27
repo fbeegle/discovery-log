@@ -12,3 +12,7 @@
 - :beers: - [top javascript frameworks & topics to learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.vjlmllis6)
 - :computer: - [forest - the admin interface your application deserves](http://www.forestadmin.com/)
 - :computer: - [lumber - the admin interface framework (forest admin cli)](http://www.forestadmin.com/lumber)
+
+### dia 27
+- :beers: - [jscasts - podcasts sobre js com cursos gratuitos sobre react](http://jscasts.teachable.com/)
+- :beers: - [trilha - aprenda react e redux da melhor maneira (artigo)](http://programadorobjetivo.co/aprenda-react-da-melhor-maneira/)
