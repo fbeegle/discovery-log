@@ -18,3 +18,7 @@
 - :beers: - [trilha - aprenda react e redux da melhor maneira (artigo)](http://programadorobjetivo.co/aprenda-react-da-melhor-maneira/)
 - :beers: - [snakke - reading position indicator < 1kb minified](https://diogomoretti.github.io/snakke/)
 - :coffee: - [kiex - elixir version manager](https://github.com/taylor/kiex)
+
+### dia 28
+- :zap: - [datacamp - learn data science online](https://www.datacamp.com/)
+- :coffee: - [introdução ao webpack - tableless](https://tableless.com.br/introducao-ao-webpack/)
