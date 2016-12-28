@@ -118,7 +118,6 @@
 
 ## dia 29
 - :beers: - [iscpf.js - validate cpf numbers](https://github.com/fdaciuk/iscpf)
-- :zap: - [write code everyday project](http://writecodeeveryday.io)
 - :beers: - [vedcasts - screencasts br do vedovelli](http://www.vedcasts.com.br/series)
 
 ## dia 30
