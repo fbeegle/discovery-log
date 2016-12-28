@@ -1,7 +1,7 @@
 language: ruby
 rvm: 2.2
 before_script: gem install awesome_bot
-script: awesome_bot 2016/12-dezembro.md --allow-redirect --white-list stackshare.io,travis-ci,developer.microsoft.com
+script: awesome_bot **/*.md --allow-redirect --white-list stackshare.io,travis-ci,developer.microsoft.com
 notifications:
   email:
     on_success: never
