@@ -22,3 +22,7 @@
 ### dia 28
 - :zap: - [datacamp - learn data science online](https://www.datacamp.com/)
 - :coffee: - [introdução ao webpack - tableless](https://tableless.com.br/introducao-ao-webpack/)
+
+### dia 29
+- :beers: - [js.coach - an opinionated catalog of open source js packages](https://js.coach)
+- :beers: - [webpack.js.org - repository for new webpack's website](https://github.com/webpack/webpack.js.org)
