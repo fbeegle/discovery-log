@@ -26,3 +26,7 @@
 ### dia 29
 - :beers: - [js.coach - an opinionated catalog of open source js packages](https://js.coach)
 - :beers: - [webpack.js.org - repository for new webpack's website](https://github.com/webpack/webpack.js.org)
+
+### dia 30
+- :beers: - [aprenda react na prática - playlist no youtube](https://www.youtube.com/playlist?list=PLXe1Uv1JGlTbrdrcZIZOabEBSpeNeVHD7)
+- :computer: - [wekan - the open-source trello-like kanban (built with meteor)](https://github.com/wekan/wekan)
