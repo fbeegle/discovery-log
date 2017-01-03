@@ -2,7 +2,11 @@
 
 # discovery-log
 
-:date: [maio de 2016](https://github.com/felipeorlando/discovery-log/blob/master/2016/05-maio.md) / [abril de 2016](https://github.com/felipeorlando/discovery-log/blob/master/2016/04-abril.md) / [março de 2016](https://github.com/felipeorlando/discovery-log/blob/master/2016/03-marco.md) / [dezembro de 2016](https://github.com/felipeorlando/discovery-log/blob/master/2016/12-dezembro.md) *em breve vem outros meses, eu acho...*
+### :date: 2017
+[janeiro](https://github.com/felipeorlando/discovery-log/blob/master/2017/01-janeiro.md) *em breve vem outros meses, eu acho...*
+
+### :date: 2016
+[maio](https://github.com/felipeorlando/discovery-log/blob/master/2016/05-maio.md) / [abril](https://github.com/felipeorlando/discovery-log/blob/master/2016/04-abril.md) / [março](https://github.com/felipeorlando/discovery-log/blob/master/2016/03-marco.md) / [dezembro](https://github.com/felipeorlando/discovery-log/blob/master/2016/12-dezembro.md)
 
 [![Build Status](https://travis-ci.org/felipeorlando/discovery-log.svg?branch=master)](https://travis-ci.org/felipeorlando/discovery-log)
 
