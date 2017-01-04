@@ -11,3 +11,6 @@
 - :beers: - [anime.js - js animation engine](https://github.com/juliangarnier/anime)
 - :beers: - [bttn.css - awesome buttons for awesome projects](https://github.com/ganapativs/bttn.css)
 - :beers: - [blockrevealers - ideas for revealing content in a schematic box](https://github.com/codrops/BlockRevealers)
+
+### dia 04
+- :computer: - [mycli - a terminal client for mysql with autocompletion and syntax highlighting](https://github.com/dbcli/mycli)
