@@ -20,3 +20,4 @@
 - :beers: - [embed.js - a pure js plugin to insert or embed](http://riteshkr.com/embed.js/)
 - :beers: - [backgroundcheck - switch to a darker or a lighter on element depending on the bckground](http://www.kennethcachia.com/background-check/)
 - :beers: - [egg.js - js library to show easter eggs](http://thatmikeflynn.com/egg.js/)
+- :beers: [inferno.js - an extremely fast, react-like js library for building modern user interfaces](https://github.com/infernojs/inferno)
