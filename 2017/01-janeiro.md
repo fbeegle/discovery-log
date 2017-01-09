@@ -14,3 +14,9 @@
 
 ### dia 04
 - :computer: - [mycli - a terminal client for mysql with autocompletion and syntax highlighting](https://github.com/dbcli/mycli)
+
+### dia 09
+- :beers: - [plyr - a simple, accessible html5 media player](https://plyr.io/)
+- :beers: - [embed.js - a pure js plugin to insert or embed](http://riteshkr.com/embed.js/)
+- :beers: - [backgroundcheck - switch to a darker or a lighter on element depending on the bckground](http://www.kennethcachia.com/background-check/)
+- :beers: - [egg.js - js library to show easter eggs](http://thatmikeflynn.com/egg.js/)
