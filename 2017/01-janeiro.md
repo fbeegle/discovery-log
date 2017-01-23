@@ -24,3 +24,6 @@
 
 ### dia 22
 - :zap: - [randomuser - offer an api with random generated users](https://randomuser.me/)
+
+### dia 23
+- :iphone: - [ios architecture patterns - demystifying mvc, mvp, mvvm and viper](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.odujlwvnh)
