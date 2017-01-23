@@ -27,3 +27,4 @@
 
 ### dia 23
 - :iphone: - [ios architecture patterns - demystifying mvc, mvp, mvvm and viper](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.odujlwvnh)
+- :iphone: - [ios project architecture: using viper](https://www.ckl.io/blog/ios-project-architecture-using-viper/)
