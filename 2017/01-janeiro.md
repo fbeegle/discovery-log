@@ -28,3 +28,11 @@
 ### dia 23
 - :iphone: - [ios architecture patterns - demystifying mvc, mvp, mvvm and viper](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.odujlwvnh)
 - :iphone: - [ios project architecture: using viper](https://www.ckl.io/blog/ios-project-architecture-using-viper/)
+
+### dia 24
+- :beers: - [spectacle - react.js based library for creating sleek presentations](http://formidable.com/open-source/spectacle/)
+- :beers: - [react-shuffle - animated shuffling of child components on change](https://github.com/FormidableLabs/react-shuffle)
+
+### dia 28
+- :coffee: - [brakeman - a static analysis security vulnerability scanner for ror app](https://github.com/presidentbeef/brakeman)
+- :iphone: - [react-navigation - react native view navigators](https://github.com/react-community/react-navigation)
